@@ -1,0 +1,29 @@
+body
+{
+    background-color: pink;
+    margin-right: 100%;
+    text-align: left;
+}
+
+.name_of_object
+{
+    text-align: left;
+    font-size: 25px;
+}
+.heading
+{
+    
+   text-align: left;
+}
+
+.webcam
+{
+    text-align: left;
+}
+
+#camera
+{
+    text-align: left;
+   
+
+}
